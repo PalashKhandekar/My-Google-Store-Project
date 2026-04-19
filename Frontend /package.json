@@ -1,0 +1,12 @@
+{
+  "name": "google-store-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel public/index.html --port 3000",
+    "build": "parcel build public/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
